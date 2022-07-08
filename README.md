@@ -1,9 +1,9 @@
 # Module9
 
-##Overview of the analysis
+## Overview of the analysis
 W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. Thus, the purpose of this analysis is to use Python, Pandas functions and methods, and SQLAlchemy to filter out the necessary information. Convert those temperatures information to a list, create a DataFrame from the list, and generate the summary statistics.
 
-##Results
+## Results
 After filtering out the dataset by using Python, Pandas functions and methods, and SQLAlchemy, the summary of temperature data for the month Jun and December in Oahu shows below.
 
 **June Temperature**
