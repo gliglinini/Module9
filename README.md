@@ -7,9 +7,11 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 After filtering out the dataset by using Python, Pandas functions and methods, and SQLAlchemy, the summary of temperature data for the month Jun and December in Oahu shows below.
 
 **June Temperature**
+
 <img width="147" alt="Screen Shot 2022-07-07 at 22 45 11" src="https://user-images.githubusercontent.com/104598986/177906729-3af87f76-4943-470a-89aa-ee40ccc1219c.png">
 
 **December Temperature**
+
 <img width="152" alt="Screen Shot 2022-07-07 at 22 45 18" src="https://user-images.githubusercontent.com/104598986/177906706-c5e56637-74b5-4e92-85dd-685770647dbe.png">
 
 
